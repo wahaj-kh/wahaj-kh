@@ -4,7 +4,7 @@ I'm a Software Engineering student passionate about backend architecture, effici
 
 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, TypeScript
-- **Backend:** FastAPI, Python Advanced Ecosystem (Generators, Decorators)
+- **Backend:** FastAPI, Django, Python Advanced Ecosystem (Generators, Decorators)
 - **Frontend:** Next.js, Tailwind CSS
 - **Databases & Tools:** SQLite, Git, Excel/Data Manipulation
 
