@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Wahaj khan! 👋
 
-<!--
-**wahaj-kh/wahaj-kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student passionate about backend architecture, efficient data structures, and building scalable applications.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Tools
+- **Languages:** Python, JavaScript, TypeScript
+- **Backend:** FastAPI, Python Advanced Ecosystem (Generators, Decorators)
+- **Frontend:** Next.js, Tailwind CSS
+- **Databases & Tools:** SQLite, Git, Excel/Data Manipulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working On
+- Optimizing custom developer tooling and profiling utilities.
+- Polishing full-stack web applications to production-ready standards.
